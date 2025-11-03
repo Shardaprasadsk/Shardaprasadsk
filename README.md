@@ -5,6 +5,7 @@
 <h3 align="center">💻 Software Developer | Blockchain Node Runner 🚀 | </h3>
 
 <p align="center">
+  <a href="https://github.com/Shardaprasadsk"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=Github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/shardaprasad-kawle-22307b230/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:shardaprasadkawle20@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
