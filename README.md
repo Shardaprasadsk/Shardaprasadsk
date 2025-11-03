@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Shardaprasad</span>!</h1>
-<h3 align="center">💻 Software Developer | Blockchain Node Runner 🚀 | </h3>
+<h3 align="center">💻 Software Developer 🚀 Full Stack Developer | 🌐 Web3 Enthusiast | | Blockchain Node Runner 🚀 | </h3>
 
 <p align="center">
   <a href="https://github.com/Shardaprasadsk"><img src="https://img.shields.io/badge/-Github-blue?style=for-the-badge&logo=Github" alt="GitHub" /></a>
