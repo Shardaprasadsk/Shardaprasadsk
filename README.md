@@ -5,9 +5,8 @@
 <h3 align="center">💻 Software Developer | Blockchain Node Runner 🚀 | </h3>
 
 <p align="center">
-  <a href="https://github.com/Shardaprasadsk"><img src="https://komarev.com/ghpvc/?username=durgaprasadsk&style=for-the-badge&color=brightgreen" alt="profile views" /></a>
   <a href="https://www.linkedin.com/in/shardaprasad-kawle-22307b230/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:shardaprasadkawle20@gmail.com"><img src="https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="mailto:shardaprasadkawle20@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
@@ -35,10 +34,7 @@
 
 ---
 
-### 📊 **GitHub Analytics**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shardaprasadsk&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+
 
 ---
 
